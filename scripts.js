@@ -168,4 +168,4 @@ return sum > 100
      function willSurfInTheBeach(waterTemperature) {
       return waterTemperature > 60;
     }
-      console.log(willSurfInTheBeach(65));
+      console.log(willSurfInTheBeach(65))
